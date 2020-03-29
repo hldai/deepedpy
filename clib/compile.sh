@@ -1,0 +1,1 @@
+gcc -shared -Wl,-soname,randgen -o randgen.so -fPIC randgen.c
